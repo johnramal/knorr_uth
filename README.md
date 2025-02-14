@@ -1,7 +1,7 @@
 # Unilever Talent Hunt Program 2025 - Knorr
 
 
-This repository contains the analysis and insights generated for the **Unilever Talent Hunt Program 2025 (UTH 2025)**. The project was submitted by **Team Achanak United**, consisting of team members **Alwan**, **Moosa**, and **John**, led by **John**. The project involves data collection, cleaning, analysis, and visualization to provide actionable recommendations for Knorr's marketing strategy.
+This repository contains the analysis and insights generated for the **Unilever Talent Hunt Program 2025 (UTH 2025)**. The project was submitted by **Team Achanak United**, consisting of team members **Alwan**, **Moosa**, and **John**, led by the last. The project involves data collection, cleaning, analysis, and visualization to provide actionable recommendations for Knorr's marketing strategy.
 
 
 
@@ -38,7 +38,6 @@ This repository contains the analysis and insights generated for the **Unilever 
    - Datasets:  
      - `reddit_comments_20250130_003525.csv`: Raw Reddit comments dataset.  
      - `tableau_summary_stats.csv`: Summary statistics for Tableau visualizations.  
-     - `tableau_words_sentiment.csv`: Sentiment analysis data for Tableau.  
 
 ---
 
